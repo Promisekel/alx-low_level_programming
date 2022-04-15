@@ -1,4 +1,4 @@
-#include "!main.h"
+#include "main.h"
 /**
  * _isupper - evalue if letter is uppercase .
  * @c: print int
@@ -7,7 +7,7 @@
  
 int _isupper(int c)
 {
-	if (c >= 'A' && C <= 'Z')
+	if (c >= 'A' && c <= 'Z')
 }
 Return (1);
 }
