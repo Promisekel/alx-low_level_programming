@@ -3,7 +3,7 @@
  * main - entry point
  *
  * Return: void
- i*/
+ */
 
 int main(void)
 {
